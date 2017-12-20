@@ -41,4 +41,5 @@ test_script:
   #- cmd: dotnet xunit
 on_finish :
   # any cleanup in here
+  #app veyor tyest
 deploy: off
